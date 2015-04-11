@@ -21,7 +21,7 @@ Steps to Run:
 4. CrowdFireAppWebApp is the client Application. Run the index file and you're done !
 
 Incase, you face CORS issue, then hit the API directly
-[host]:[port]/CrowdFireAppInstagramService/crowdfire/user/timetopost?username=[username|userid]
+host:port/CrowdFireAppInstagramService/crowdfire/user/timetopost?username=username|userid
 
 example::
 localhost:8080/CrowdFireAppInstagramService/crowdfire/user/timetopost?username=asifsid88
