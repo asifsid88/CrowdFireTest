@@ -33,3 +33,4 @@ Points to Remember:
 2. Place the CrowdFireAppWebApp folder in the same webapp (This is to ensure that webservice and application has the same domain, to prevent CORS issue). As currently with this assignment (CORS) issue is handled but not that properly (not checked/ covered all corner cases regarding CORS).
 3. In real-time application, all the System.out.println() will be replaced with Log4j logging. And also have better logging system
 4. Credentials, and some properties can be moved into `properties file`
+5. Enter only `user-id` in the text field
