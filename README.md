@@ -1,7 +1,7 @@
 # CrowdFireTest
 Assignment completion
 
-NOTE: The updated version of this assignment is [Absolute README link](https://github.com/asifsid88/CrowdFireTestEnhancements)
+NOTE: The updated version of this assignment is [Enhanced version of Test having Polling System integrated](https://github.com/asifsid88/CrowdFireTestEnhancements)
 
 
 
